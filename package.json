@@ -1,0 +1,14 @@
+{
+  "name": "hello-docker-node",
+  "version": "1.0.0",
+  "description": "hello world for node and docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Huang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
